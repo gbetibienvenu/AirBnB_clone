@@ -7,7 +7,6 @@ serve as the entry point of the entire project
 
 
 
-
 from cmd import Cmd
 from models import storage
 from models.engine.errors import *
